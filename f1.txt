@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello
 students
+=======
+hello world
+
+>>>>>>> 0cd0110 (second)
